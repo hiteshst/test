@@ -1,0 +1,21 @@
+.header{
+    font-size: x-large;
+    font-style: italic;
+    opacity: 1;
+    text-transform: uppercase;
+    t
+}
+
+
+
+#head{
+    background-color: aqua;
+    font-size: xx-large;
+}
+
+
+
+.headd{
+    color: red;
+    text-decoration: underline 3px red dotted ;
+}
